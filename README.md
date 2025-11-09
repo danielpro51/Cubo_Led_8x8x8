@@ -44,7 +44,7 @@ El cubo fue desarrollado como proyecto educativo para demostrar conceptos de ele
 
 ## Esquemático
 
-Los esquemáticos y diagramas detallados se encuentran en la carpeta [`/schematic`](/esquematicos):
+Los esquemáticos y diagramas detallados se encuentran en la carpeta [`/schematic`](/schematic):
 
 - **`microcontrolador.jpg`** - Conexiones del Arduino UNO
 - **`columnas.jpg`** - Distribución de los 8 registros 74HC595 para control de columnas
