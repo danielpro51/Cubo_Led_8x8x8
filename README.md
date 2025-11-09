@@ -119,10 +119,10 @@ El cubo comenzará a ejecutar automáticamente los patrones programados en secue
 
 ## Miembros
 
-- **[Daniel Isaac Parra Baldovino]**
-- **[Fabián José Pastrana Pérez]**
-- **[Yóbil Julián Gómez Arrieta]**
-- **[Juan Manuel Mercado Garrido]**
+- **[Daniel I. Parra Baldovino]**
+- **[Fabián J. Pastrana Pérez]**
+- **[Yóbil J. Gómez Arrieta]**
+- **[Juan M. Mercado Garrido]**
 
 ## 📄 Licencia
 
